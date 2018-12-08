@@ -1,4 +1,4 @@
-# Australian Informatics Olympiad (AIO) Solutions
+# Australian Informatics Olympiad (AIO) Solutions in C++
 
 *Contains my Solutions to various AIO training problems.*
 ---
