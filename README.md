@@ -1,1 +1,2 @@
-# AIO-Solutions-cpp
+# Australian Informatics Olympiad (AIO) Solutions
+
