@@ -9,7 +9,7 @@ Link to problem: https://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple1&pr
 
 #include <cstdio>
 #include <iostream>
-#include "map"
+#include <map>
 using namespace std;
 
 int main() {
