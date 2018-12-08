@@ -1,3 +1,6 @@
+Link to problem: https://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple1&problemid=342
+
+
 /**
 * @Author: Joakim Olsson <lomo133>
 * @Date:   2018-12-08T17:57:46+01:00
